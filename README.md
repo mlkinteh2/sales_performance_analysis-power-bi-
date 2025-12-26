@@ -1,6 +1,7 @@
 # 📊 Sales Performance Analysis Using Information Visualization Techniques
 
-<img width="1226" height="691" alt="image" src="https://github.com/user-attachments/assets/6d62ad85-66dc-41ef-bcc5-2c4f2177bf45" />
+<img width="1219" height="685" alt="image" src="https://github.com/user-attachments/assets/803eff89-5a56-4dfd-a8ec-f11e605b85a6" />
+
 
 
 ## 📌 Project Overview
